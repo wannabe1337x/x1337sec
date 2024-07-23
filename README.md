@@ -8,7 +8,6 @@ Welcome to the Genezio HTML Getting Started Template repository! This project pr
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Next Steps](#next-steps)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -37,21 +36,12 @@ This repository contains a simple HTML and CSS template designed for Genezio use
 
 After setting up the template, here are some recommended next steps:
 
-- [Read the Getting Started Guide](https://genezio.com/docs/getting-started)
-- [Learn about Deployment](https://genezio.com/docs/deployment)
-- [Check out the API Reference](https://genezio.com/docs/api-reference)
-- [Explore Code Examples](https://genezio.com/docs/examples)
-- [Join the Genezio Community](https://genezio.com/community)
+ <ul>
+    <li><a target="_blank" href="https://genezio.com/docs/features/custom-domain-configuration/">Add Custom Domain</a></li>
+    <li><a target="_blank" href="https://genezio.com/docs/features/frontend-deployment/">Learn more about Frontend Deployment</a></li>
+    <li><a target="_blank" href="https://genezio.com/docs/features/backend-deployment/">Learn more about Backend Deployment</a></li>
+</ul>
 
-## Contributing
-
-We welcome contributions to improve this template! To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Open a pull request with a detailed description of your changes.
 
 ## License
 
